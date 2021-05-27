@@ -1,2 +1,2 @@
 # Passbook_app
-Basic app with passbook functionality.
+Basic app with passbook functionality. Added login screen with fixed password.
